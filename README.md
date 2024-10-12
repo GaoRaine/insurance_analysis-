@@ -31,16 +31,13 @@ The dataset contains **1338 observations** and **7 variables**, including:
 
 - **Boxplots**: Used to explore the distribution of charges across different categorical variables (sex, smoker, region).
 
-  ![Boxplot Example](https://via.placeholder.com/500x300?text=Boxplot+Example)
 
 - **Scatter plots**: Visualized relationships between BMI, age, and charges.
 
-  ![Scatter Plot Example](https://via.placeholder.com/500x300?text=Scatter+Plot+Example)
 
 - **Correlation Heatmap**: Generated to analyze relationships between numeric variables and charges.
 
-  ![Heatmap Example](https://via.placeholder.com/500x300?text=Heatmap+Example)
-
+ 
 ## Predictive Modeling
 
 We built a **Multiple Linear Regression Model** to predict medical charges based on the available features. Key insights from the model include:
